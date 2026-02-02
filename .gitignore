@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
+
+# Data
+*.csv
+*.json
+*.xlsx
+images/
+
+# Environment
+.env
+venv/
+
+# MacOS
+.DS_Store
